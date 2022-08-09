@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 Focal length of objective: 10 mm
 f.l. eyepiece  magnification
          2.0              5
@@ -5,3 +6,12 @@ f.l. eyepiece  magnification
          4.0              3
          5.0              2
          5.0              2
+=======
+Focal length of objective: 1800 mm
+f.l. eyepiece  magnification
+        30.0             60
+        19.0             95
+        14.0            129
+         8.8            205
+         7.5            240
+>>>>>>> 7d79f5650d4269509c31749ea953e8373de38884
